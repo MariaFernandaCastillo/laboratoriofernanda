@@ -1,0 +1,38 @@
+.btn{
+	border-radius: 3px;
+	display: inline-block;
+	padding: 10px 10px;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.3);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.6); 
+}
+
+.btn-green{
+	color: white;
+	background-color: green;
+}
+.btn-green:hover{
+	background-color: green;	
+}
+.btn-green:active{
+	background-color: #29962A;
+}
+.btn1{
+	border-radius: 3px;
+	display: inline-block;
+	padding: 10px 10px;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.3);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.6); 
+}
+
+.btn1-red{
+	color: white;
+	background-color: #9D2720;
+}
+.btn1-red:hover{
+	background-color: #9D2720;	
+}
+.btn1-red:active{
+	background-color: #9D2720;
+}
